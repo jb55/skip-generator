@@ -14,4 +14,9 @@ describe('skip-generator', function(){
     let gen = skip(nats, 5)
     expect(gen.next().value).to.be(5);
   });
+
+  it('skipping 0 skips nothing', function(){
+    let gen = skip(nats(1), 0)
+    expect(gen.next().value).to.be(1);
+  });
 });
