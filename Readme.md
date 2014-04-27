@@ -24,7 +24,7 @@ function* csv() {
 
 let skip = require('skip-generator')
 
-for (let record in skip(csv, 1)) {
+for (let record of skip(csv, 1)) {
   console.log(record);
 }
 
