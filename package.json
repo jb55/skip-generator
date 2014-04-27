@@ -1,0 +1,25 @@
+{
+  "name": "skip-generator",
+  "description": "Skip n elements of a generator",
+  "keywords": [
+    "skip",
+    "generator"
+  ],
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jb55/skip-generator.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --harmony --reporter spec"
+  },
+  "dependencies": {
+    "is-generator": "0.0.3"
+  },
+  "devDependencies": {
+    "expect.js": "*",
+    "mocha": "*",
+    "naturals": "^1.0.0"
+  }
+}
