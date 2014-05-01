@@ -5,7 +5,7 @@
 
   [Other handy generators](https://github.com/jb55/generators)
 
-  [![Build Status](https://travis-ci.org/jb55/skip-generator.png)](https://travis-ci.org/jb55/skip-generator)
+  [![Build Status](https://travis-ci.org/jb55/skip-generator.svg)](https://travis-ci.org/jb55/skip-generator)
 
 ## Installation
 
