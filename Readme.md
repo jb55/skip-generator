@@ -3,6 +3,8 @@
 
   Skip the first n elements of a generator
 
+  Deprecated. Use [skip-iterator](https://github.com/jb55/skip-iterator) instead.
+
   [Other handy generators](https://github.com/jb55/generators)
 
   [![Build Status](https://travis-ci.org/jb55/skip-generator.svg)](https://travis-ci.org/jb55/skip-generator)

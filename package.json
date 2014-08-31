@@ -5,7 +5,7 @@
     "skip",
     "generator"
   ],
-  "version": "0.0.1",
+  "version": "5.0.0",
   "repository": {
     "type": "git",
     "url": "git://github.com/jb55/skip-generator.git"
